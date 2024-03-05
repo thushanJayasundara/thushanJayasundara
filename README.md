@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://github.com/thushanJayasundara/thushanJayasundara/blob/main/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
 <h1 align="center">Hi 👋, I'm Thushan Jayasundara</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
