@@ -27,7 +27,7 @@
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Cloud Computing && Infasrtucture Design<a href="https://www.linkedin.com/in/thushan-jayasundara/details/certifications/" target="blank"> LinkedIn Learning</a>
+- 🌱 I’m currently learning Cloud Computing & Infasrtucture Design<a href="https://www.linkedin.com/in/thushan-jayasundara/details/certifications/" target="blank"> LinkedIn Learning</a>
 
 - 💬 Ask me about **Java & Spring Boot**
 
