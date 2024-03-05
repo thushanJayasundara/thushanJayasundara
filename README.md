@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Airline Retailing Domain](https://airretailer.com/)
 
-- 🌱 I’m currently learning **Cloud Comupting**
+- 🌱 I’m currently learning **Cloud Computing**
 
-- 💬 Ask me about **Java, Spring Boot and Back-End Technologyies**
+- 💬 Ask me about **Java, Spring Boot and Back-End Technologies**
 
 - 📫 How to reach me **thushanjayasundara96@gmail.com**
 
-- ⚡ Fun fact **All is well, always be happy, It will solve your all problems**
+- ⚡ Fun fact **All is well, always be happy, It will solve all your problems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
