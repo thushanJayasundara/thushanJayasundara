@@ -11,7 +11,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🔭 I’m currently working in <a href="[https://phoenix.tech/griffyn/](https://airretailer.com/)" target="blank">AirRetailer Technology LLC</a>
+- 🔭 I’m currently working in <a href="[https://phoenix.tech/griffyn/](https://airretailer.com/)" target="blank">Pearson Lanka</a>
 
 - 🤝 I volunteer to assist final-year university students towards timely project completion and successful outcomes using cutting-edge technologies.
   
