@@ -11,7 +11,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🔭 I’m currently working in <a href="[https://phoenix.tech/griffyn/](https://airretailer.com/)" target="blank">Pearson Lanka</a>
+- 🔭 I’m currently pursuing my Msc in<a href="[https://phoenix.tech/griffyn/](https://www.metropolia.fi/en/academics/masters-degrees/information-technology)" target="blank">Metropolia University of Applied Sciences</a>
 
 - 🤝 I volunteer to assist final-year university students towards timely project completion and successful outcomes using cutting-edge technologies.
   
@@ -19,13 +19,13 @@
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Cloud Computing & Infasrtucture Design<a href="https://www.linkedin.com/in/thushan-jayasundara/details/certifications/" target="blank"> LinkedIn Learning</a>
+- 🌱 I’m currently learning Cybersecurity and Networking <a href="https://www.linkedin.com/in/thushan-jayasundara/details/certifications/" target="blank"> LinkedIn Learning</a>
 
-- 💬 Ask me about **Java & Spring Boot**
+- 💬 Ask me about **Java, Spring Boot and Cloud Computing**
 
 - 📫 How to reach me **thushanjayasundara96@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/thushanJayasundara/thushanJayasundara/blob/main/Thushan-Jayasundara-Senior_Software_Engineer.pdf" target="blank">Resume</a> | <a href="https://github.com/thushanJayasundara/thushanJayasundara/blob/main/Thushan-Jayasundara-Senior-Software-Engineer(Cover-Letter).pdf" target="blank">Cover Letter</a>
+- 📄 Know about my experiences <a href="https://github.com/thushanJayasundara/thushanJayasundara/blob/main/Thushan-Jayasundara-Senior-Software-Engineer.pdf" target="blank">Resume</a> | <a href="https://github.com/thushanJayasundara/thushanJayasundara/blob/main/Thushan-Jayasundara-SSE(Cover-Letter).pdf" target="blank">Cover Letter</a>
 
 <br>
 
