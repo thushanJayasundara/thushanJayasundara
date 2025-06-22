@@ -11,7 +11,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🔭 I’m currently pursuing my Msc in<a href="[https://phoenix.tech/griffyn/](https://www.metropolia.fi/en/academics/masters-degrees/information-technology)" target="blank">Metropolia University of Applied Sciences</a>
+- 🔭 I’m currently pursuing my Msc in <a href="[https://phoenix.tech/griffyn/](https://www.metropolia.fi/en/academics/masters-degrees/information-technology)" target="blank">Metropolia University of Applied Sciences</a>
 
 - 🤝 I volunteer to assist final-year university students towards timely project completion and successful outcomes using cutting-edge technologies.
   
