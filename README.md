@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **thushanjayasundara96@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/thushanJayasundara/thushanJayasundara/blob/main/Thushan-Jayasundara-Senior-Software-Engineer.pdf" target="blank">Resume</a> | <a href="https://github.com/thushanJayasundara/thushanJayasundara/blob/main/Thushan-Jayasundara-SSE(Cover-Letter).pdf" target="blank">Cover Letter</a>
+- 📄 Know about my experiences <a href="https://github.com/thushanJayasundara/thushanJayasundara/blob/main/Thushan-Jayasundara-SSE-Resume.pdf" target="blank">Resume</a> | <a href="https://github.com/thushanJayasundara/thushanJayasundara/blob/main/Thushan-Jayasundara-SSE-Cover-Letter.pdf" target="blank">Cover Letter</a>
 
 <br>
 
